@@ -1050,7 +1050,7 @@ def get_arg_parser():
                         default=30, help="Interval at which to verify "
                         "the BIG-IP configuration.")
     parser.add_argument("--version",
-                        help="Print out version and build inforamtion",
+                        help="Print out version information and exit",
                         action="store_true")
 
     parser = set_logging_args(parser)
