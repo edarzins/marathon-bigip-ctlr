@@ -8,3 +8,4 @@ sseclient==0.0.14
 configargparse==0.10.0
 ipaddress==1.0.17
 PyJWT==1.4.0
+numpy
